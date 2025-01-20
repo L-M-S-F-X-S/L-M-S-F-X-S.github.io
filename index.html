@@ -34,8 +34,6 @@
         // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
         loadNavbar: true,
         topMargin: 90,
-        // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
-        coverpage: true,
         // 只在访问主页时加载封面。
         onlyCover: true,
         //切换页面后是否自动跳转到页面顶部
@@ -76,12 +74,6 @@
           ], // default
           displayMath: [["$$", "$$"]], // default
         },
-        // 评论
-        Valine: {
-          appId: "dKmadMBWtNgtswF2iTmes7fR-gzGzoHsz",
-          appKey: "DciXEg3cQofMdBCQSV5yKfrZ",
-          // docPath: 'hash', //default to `hash` ,or you can choose `full`
-        },
         // 分页
         pagination: {
           previousText: "上一章",
@@ -121,10 +113,6 @@
     <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
     <!-- CDN files for docsify-katex -->
     <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
-    
-    <!-- 评论 -->
-    <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-    <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
 
     <!-- pdf-render -->
     <script src="//cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js"></script>
