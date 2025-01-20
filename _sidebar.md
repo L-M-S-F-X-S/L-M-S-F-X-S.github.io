@@ -1,3 +1,3 @@
 -   [项目介绍](README.md)
--   [课程列表](docs/课内笔记/README.md)
+-   [课程列表](docs/作业及实验报告/README.md)
 
