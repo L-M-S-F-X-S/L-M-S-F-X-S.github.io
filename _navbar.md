@@ -1,2 +1,4 @@
 -   [项目介绍](README.md)
 -   [课程列表](docs/作业及实验报告/README.md)
+    -   [必修课](docs/作业及实验报告/必修课/README.md)
+    -   [选修课](docs/作业及实验报告/选修课/README.md)
