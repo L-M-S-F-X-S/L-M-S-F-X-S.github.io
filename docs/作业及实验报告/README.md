@@ -4,7 +4,7 @@
 
 -   [毛概](docs/作业及实验报告/必修课/作业及实验报告/毛概/README.md)
 
--   [Python实验](docs/作业及实验报告/必修课/Python实验/README.md)
+-   [Python实验](docs/作业及实验报告/必修课/python实验/README.md)
 
 -   [面向对象程序设计基础及实验](docs/作业及实验报告/必修课/面向对象程序设计基础及实验/README.md)
 
