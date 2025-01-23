@@ -1,4 +1,4 @@
-# 必修课
+# <span style="font-size: 2.0em; font-weight: bold;">必修课</span>
 
 -   [毛概](docs/作业及实验报告/必修课/毛概/README.md)
 
