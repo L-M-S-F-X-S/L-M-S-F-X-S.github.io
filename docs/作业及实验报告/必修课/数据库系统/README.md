@@ -18,7 +18,7 @@
 
 # <span style="font-size: 1.5em; font-weight: bold;">实验内容</span>
 
-<span style="font-size: 1.0em; font-weight: normal; color: gray;">由于每个人分到的实验内容不一样，故不展示实验报告内容，下列内容均为老师授课期间发送过的，辅助大家完成实验的资料。</span>
+<span style="font-size: 1.0em; font-weight: normal; color: gray;">  由于每个人分到的实验内容不一样，故不展示实验报告内容，下列内容均为老师授课期间发送过的，辅助大家完成实验的资料。</span>
 
 # <span style="font-size: 1.2em; font-weight: bold;">第1，2次-数据库建模实验说明</span>
 
