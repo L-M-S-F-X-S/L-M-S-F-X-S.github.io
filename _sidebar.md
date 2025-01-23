@@ -1,3 +1,3 @@
--   [<span style="font-size: 2.0em; font-weight: lighter; color: black;">项目介绍</span>](README.md)
--   [<span style="font-size: 2.0em; font-weight: lighter; color: black;">在线浏览（待开发）</span>](README.md)
--   [<span style="font-size: 2.0em; font-weight: lighter; color: black;">资料下载</span>](docs/作业及实验报告/README.md)
+-   [<span style="font-size: 2.0em; font-weight: lighter; color: purple;">项目介绍</span>](README.md)
+-   [<span style="font-size: 2.0em; font-weight: lighter; color: purple;">在线浏览（待开发）</span>](README.md)
+-   [<span style="font-size: 2.0em; font-weight: lighter; color: purple;">资料下载</span>](docs/作业及实验报告/README.md)
