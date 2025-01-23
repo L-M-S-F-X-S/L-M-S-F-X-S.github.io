@@ -1,6 +1,6 @@
 # <span style="font-size: 2.0em; font-weight: bold;">资料下载</span>
 
-# <span style="font-size: 1.5em; font-weight: bold;">必修课</span>
+# <span style="font-size: 1.5em; font-weight: lighter;">必修课</span>
 
 -   [毛概](docs/作业及实验报告/必修课/毛概/README.md)
 
@@ -40,7 +40,7 @@
 
 -   [系统设计与分析](docs/作业及实验报告/必修课/系统设计与分析/README.md)
 
-# <span style="font-size: 1.5em; font-weight: bold;">选修课</span>
+# <span style="font-size: 1.5em; font-weight: lighter;">选修课</span>
 
 -   [聚焦新闻英语](docs/作业及实验报告/选修课/聚焦新闻英语/README.md)
 
