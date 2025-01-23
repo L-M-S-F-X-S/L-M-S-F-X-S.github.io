@@ -2,6 +2,8 @@
 
 点击对应链接即可直接下载：
 
+> <span style="font-size: 1.2em; font-weight: normal; color: gray;">（多提一嘴）数电作业请勿直接抄袭，老师批改很严，下列资料请慎重使用！！！</span>
+
 # <span style="font-size: 1.5em; font-weight: bold;">作业</span>
 
 # <span style="font-size: 1.2em; font-weight: lighter;">第一次作业：</span>
